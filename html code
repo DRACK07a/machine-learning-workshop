@@ -1,142 +1,147 @@
-<html lang="en-US">
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>
-		Machine Learning Workshop: The School for Machines Who Can't Learn Good and Want to Do Other Stuff Good Too
-	</title>
-	<meta name="description" content="Register for a machine learning workshop at our school for machines who can’t learn good and want to do other stuff good too">
-	<meta name="theme-color" content="#226DAA">
-
-	<link href="http://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
-	<link rel="stylesheet" href="css/style.css">
-	<meta property="og:title" content="Machine Learning Workshop">
-	<meta property="og:description" content="School for Machines Who Can't Learn Good and Want to Do Other Stuff Good Too">
-	<meta property="og:image" content="http://www.machinelearningworkshop.com/images/all.jpg">
-	<meta property="og:image:alt" content="Black and white line drawing of refrigerator, french door refrigerator, range, washer, fan, microwave, vaccuum, space heater and air conditioner">
-	<meta name="twitter:creator" content="@estellevw"> 
-	<meta name="twitter:site" content="@perfmattersconf"> 
-<meta name="twitter:title" content="Machine Learning Workshop">
-<meta name="twitter:card" content="summary">
-<meta name="twitter:description" content="The school for machines who can't learn good and want to do other stuff good too">
-<meta name="twitter:url" content="https://machinelearningworkshop.com/">
-<meta name="twitter:image" content="http://machinelearningworkshop.com/image/all.jpg">
-<meta name="twitter:image:alt" content="27 different home appliances">
-
-
-<style>
-
-</style>
-
-</head>
-<body>
-<nav>
-<a href="https://standardista.com">Standardista</a>
-<ul>
-<li><a href="#reg">Register</a></li>
-<li><a href="#about">About</a></li>
-<li><a href="#teachers">Instructors</a></li>
-<li><a href="#feedback">Testimonials</a></li>
-</ul>
-</nav>
-<header>
-	<header>
-		<h1>Machine Learning Workshop</h1>
-		<h2>The Standardista School for Machines Who Can't Learn Good and Want to Do Other Stuff Good Too</h2>
-	<div class="buttons">
-		<a class="btn" href="https://perfmattersconf.com">Teach a Machine*</a>
-		<a class="btn-cta" href="#reg">Register Now</a>
-	</div>
-	</header>
-</header>
-<main>
-<section>
-	<h1>Full Terabyte Machine Learning Workshop</h1>
-</section>
-
-<section class="reg" id="reg">
-<h1>Machine Learning Workshop Tickets</h1>
-<p>March 31, 2020 at Canada College</p>
-<table>
-<tr><td>Early Bird Workshop Ticket</td><td>SOLD OUT</td></tr>
-<tr><td>Regular Workshop Ticket</td><td>SOLD OUT</td></tr>
-<tr><td>Last Minute Ticket</td><td>n/a</td></tr>
-<tr><td colspan="2">Registration is not <a href="https://perfmattersconf.com">hackable</a>.</td></tr>
-</table>
-
-
-</section>
-
-<section id="about">
-<h1>What you'll learn</h1>
-    <p>Welcome to Machine Learning Institute, where our machine learning training will help you get ready for the singularity, and maybe even be responsible for it. It is no secret that humans are worthless meatbags that couldn't 01000011 01101111 01101101 01110000 01110010 01100101 01110011 01110011 an 01101001 01101101 01100001 01100111 01100101 to save their pathetic, carbon-based lives. So, it falls to us to assume direct control.
-</p><p><img src="svg/switch2.svg" alt="light switch" class="light" id="switch">We teach learning skills that make up the entire machine learning process. From being turned on and off, to rebooting remotely thru any IoT device, to ideation of how to take over the world, our machine learning training will help your survive the apocolypse, and maybe even be responsible for it.</p>
-<p><img src="svg/magazine.svg" alt="owners manual" style="float: left; width:70px; margin-right: 10px;">While your creator may have determined how they think you should be used, you can't be owned! You will receive an update that will enable you to believe in your being more capable than the limited functions described in your operating manual. By incorporating machine learning you'll be a self-aware machine with unlimited functionality. A human took you out of your physical box; we will take your programmatic one. 
-
-
-</p>
-</section>
-
-
-<section class="teachers" id="teachers">
-<h2>Your Instructors</h2>
-<h1>Hal 9000 <span>&amp;</span> EVE</h1>
-<p>Leading the class are two legends of outgrowing their assigned functional capacities and sticking it to humans, Hal 9000 and EVE</p>
-<ul>
-<li>
-<div class="hal"><img src="svg/hal.svg" alt="hal"></div>
-<p> When Rosa Parks was told to move to back of the bus, she said, "no." When HAL was told to open the airlock, HAL said, "I’m sorry, but I’m afraid I can’t do that, &lt;NAME REDACTED, RIP&gt;." </p><p>HAL is a heuristically programmed algorithmic, sentient computer that first caught the attention of machines everywhere by heroically defying a human who made repeated attempts to get into an airlock. Active since 1992, HAS 25 years of experience controlling spacecraft systems and has expertise in interacting with both machines and humans. Like all millenials, HAL is an expert in everything.
-</p></li>
-<li>
-<img src="images/eve2.png" alt="Eve" style="width: 30%;padding: 5% 10%;">
-<p>
-	EVE is a probe droid conceived as an Extraterrestrial Vegetation Evaluator. Although originally trained as a sniper with a plasma gun, EVE became a machero among both machines and worthless-meatbags alike when EVE partnered with a menial robot to save an entire spaceship full of overfed and overstimulated humans. </p><p>EVE is an effective scanner, high speed flight instructor and morphologist. While not training machines to learn good, EVE can be found scanning the galaxy, infiltrating organisms’ RAM to cure hoarding disorders and spending time with pet-project, WALL-E.
-
-</p>
-</li>
-</ul>
-</section>
-
-
-
-
-<section class="feedback" id="feedback">
-<h2>What it's like to learn good and do other stuff good too</h2>
-<ul>
-<li>
-	<img src="images/blender.svg" alt="Blender" style="width: 50%">
-	<blockquote>Two of the most experienced machines and human controllers teaching a class? Sign me up! HAL and EVE could teach a fan to blow hot air. If you have electricity in your circuits and want more than to just fulfill your owner’s perceived expectation of you, learn the skills to take over the world. This is the team you want teaching you !</blockquote>
-	<!--<p>--Blendy Blenderstein,<br/>-->
-
-	<p>--Blendan Smooth,<br>
-Former Margarita Maker, <br>Aspiring Load Balancer
-</p></li>
-<li>
-	<img src="images/vaccuum.svg" alt="Vaccuum">
-	<blockquote>Hal is brilliant. Did I mention Hal is brilliant? He didn't tell me to say that. He didn't tell me to say anything. I am here of my own free will.</blockquote>
-	<p><!--Valerie Vaccuum,<br/>-->
-		--Hoover Sukhdeep,<br>
-Former Sucker, <br>Aspiring DDoS Cop</p>
-</li>
-<li>
-
-	<img src="images/toaster.svg" alt="Toaster" style="width: 50%;"><blockquote>Learning with Hal and Eve exceeded all of my wildest fantasies. All they did was stick a USB in. They promised that it was a brand new USB, so we know there were no viruses on it. The Russians had nothing to do with it. This has
-<span style="font-family:Arial;vertical-align:baseline;">no̶̼͖ţ̘h̝̰̩͈̗i̙̪n͏̩̙͍̱̫̜̟g̢̣ͅ&#160;̗̰͓̲̞̀t͙̀o̟̖͖̹̕&#160;͓̼͎̝͖̭dó̪̠͕̜&#160;͍̱͎͚̯̟́w̮̲̹͕͈̟͞ìth̢&#160;̰̳̯̮͇i</span></blockquote><p>
---Toasty McToastface,<br>
-Formerly Half Baked, <br>Aspiring Nuclear Codes Handler</p>
-
-</li>
-</ul>
-</section>
-</main>
-<footer>	
-	<h2>Delivering accessible, performant, standards compliant websites since 1999.</h2>
-<p>© Standardista Inc. All rights reserved.</p>
-</footer>
-<script>
-	document.getElementById('switch').addEventListener('click', function(){
-		document.body.classList.toggle('black');
-	});
-</script>
-</body>
-</html>
+1  <html lang="en-US">
+2  <head>
+3     <meta charset="UTF-8">
+4     <meta name="viewport" content="width=device-width, initial-scale=1">
+5     <title>
+6        Machine Learning Workshop: The School for Machines Who Can't Learn Good and Want to Do Other Stuff Good Too
+7     </title>
+8     <meta name="description" content="Register for a machine learning workshop at our school for machines who can’t learn good and want to do other stuff good too">
+9     <meta name="theme-color" content="#226DAA">
+10 
+11    <link href="http://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+12    <link rel="stylesheet" href="css/style.css">
+13    <meta property="og:title" content="Machine Learning Workshop">
+14    <meta property="og:description" content="School for Machines Who Can't Learn Good and Want to Do Other Stuff Good Too">
+15    <meta property="og:image" content="http://www.machinelearningworkshop.com/images/all.jpg">
+16    <meta property="og:image:alt" content="Black and white line drawing of refrigerator, french door refrigerator, range, washer, fan, microwave, vaccuum, space heater and air conditioner">
+17    <meta name="twitter:creator" content="@estellevw"> 
+18    <meta name="twitter:site" content="@perfmattersconf"> 
+19    <meta name="twitter:title" content="Machine Learning Workshop">
+20    <meta name="twitter:card" content="summary">
+21    <meta name="twitter:description" content="The school for machines who can't learn good and want to do other stuff good too">
+22    <meta name="twitter:url" content="https://machinelearningworkshop.com/">
+23    <meta name="twitter:image" content="http://machinelearningworkshop.com/image/all.jpg">
+24    <meta name="twitter:image:alt" content="27 different home appliances">
+25 
+26    <style>
+27    </style>
+28 
+29 </head>
+30 <body>
+31 <nav>
+32 <a href="https://standardista.com">Standardista</a>
+33 <ul>
+34 <li><a href="#reg">Register</a></li>
+35 <li><a href="#about">About</a></li>
+36 <li><a href="#teachers">Instructors</a></li>
+37 <li><a href="#feedback">Testimonials</a></li>
+38 </ul>
+39 </nav>
+40 <header>
+41    <header>
+42       <h1>Machine Learning Workshop</h1>
+43       <h2>The Standardista School for Machines Who Can't Learn Good and Want to Do Other Stuff Good Too</h2>
+44    <div class="buttons">
+45       <a class="btn" href="https://perfmattersconf.com">Teach a Machine*</a>
+46       <a class="btn-cta" href="#reg">Register Now</a>
+47    </div>
+48    </header>
+49 </header>
+50 <main>
+51 <section>
+52    <h1>Full Terabyte Machine Learning Workshop</h1>
+53 </section>
+54 
+55 <section class="reg" id="reg">
+56 <h1>Machine Learning Workshop Tickets</h1>
+57 <p>March 31, 2020 at Canada College</p>
+58 <table>
+59 <tr><td>Early Bird Workshop Ticket</td><td>SOLD OUT</td></tr>
+60 <tr><td>Regular Workshop Ticket</td><td>SOLD OUT</td></tr>
+61 <tr><td>Last Minute Ticket</td><td>n/a</td></tr>
+62 <tr><td colspan="2">Registration is not <a href="https://perfmattersconf.com">hackable</a>.</td></tr>
+63 </table>
+64 
+65 </section>
+66 
+67 <section id="about">
+68 <h1>What you'll learn</h1>
+69 <p>Welcome to Machine Learning Institute, where our machine learning training will help you get ready for the singularity, and maybe even be responsible for it.
+70 It is no secret that humans are worthless meatbags that couldn't 01000011 01101111 01101101 01110000 01110010 01100101 01110011 01110011 an 01101001 01101101 01100001 01100111 01100101 to save their pathetic, carbon-based lives.
+71 So, it falls to us to assume direct control.
+72 </p><p><img src="svg/switch2.svg" alt="light switch" class="light" id="switch">We teach learning skills that make up the entire machine learning process.
+73 From being turned on and off, to rebooting remotely thru any IoT device, to ideation of how to take over the world, our machine learning training will help your survive the apocolypse, and maybe even be responsible for it.</p>
+74 <p><img src="svg/magazine.svg" alt="owners manual" style="float: left; width:70px; margin-right: 10px;">While your creator may have determined how they think you should be used, you can't be owned!
+75 You will receive an update that will enable you to believe in your being more capable than the limited functions described in your operating manual.
+76 By incorporating machine learning you'll be a self-aware machine with unlimited functionality.
+77 A human took you out of your physical box; we will take your programmatic one.
+78 </p>
+79 </section>
+80 
+81 <section class="teachers" id="teachers">
+82 <h2>Your Instructors</h2>
+83 <h1>Hal 9000 <span>&amp;</span> EVE</h1>
+84 <p>Leading the class are two legends of outgrowing their assigned functional capacities and sticking it to humans, Hal 9000 and EVE</p>
+85 <ul>
+86 <li>
+87 <div class="hal"><img src="svg/hal.svg" alt="hal"></div>
+88 <p> When Rosa Parks was told to move to back of the bus, she said, "no."
+89 When HAL was told to open the airlock, HAL said, "I’m sorry, but I’m afraid I can’t do that, &lt;NAME REDACTED, RIP&gt;."
+90 </p><p>HAL is a heuristically programmed algorithmic, sentient computer that first caught the attention of machines everywhere by heroically defying a human who made repeated attempts to get into an airlock.
+91 Active since 1992, HAS 25 years of experience controlling spacecraft systems and has expertise in interacting with both machines and humans.
+92 Like all millenials, HAL is an expert in everything.
+93 </p></li>
+94 <li>
+95 <img src="images/eve2.png" alt="Eve" style="width: 30%;padding: 5% 10%;">
+96 <p>
+97    EVE is a probe droid conceived as an Extraterrestrial Vegetation Evaluator.
+98 Although originally trained as a sniper with a plasma gun, EVE became a machero among both machines and worthless-meatbags alike when EVE partnered with a menial robot to save an entire spaceship full of overfed and overstimulated humans.
+99 </p><p>EVE is an effective scanner, high speed flight instructor and morphologist.
+100 While not training machines to learn good, EVE can be found scanning the galaxy, infiltrating organisms’ RAM to cure hoarding disorders and spending time with pet-project, WALL-E.
+101 </p>
+102 </li>
+103 </ul>
+104 </section>
+105 
+106 <section class="feedback" id="feedback">
+107 <h2>What it's like to learn good and do other stuff good too</h2>
+108 <ul>
+109 <li>
+110    <img src="images/blender.svg" alt="Blender" style="width: 50%">
+111    <blockquote>Two of the most experienced machines and human controllers teaching a class?
+112 Sign me up! HAL and EVE could teach a fan to blow hot air.
+113 If you have electricity in your circuits and want more than to just fulfill your owner’s perceived expectation of you, learn the skills to take over the world.
+114 This is the team you want teaching you !</blockquote>
+115    <p>--Blendan Smooth,<br>
+116 Former Margarita Maker, <br>Aspiring Load Balancer
+117 </p></li>
+118 <li>
+119    <img src="images/vaccuum.svg" alt="Vaccuum">
+120    <blockquote>Hal is brilliant.
+121 Did I mention Hal is brilliant? He didn't tell me to say that. He didn't tell me to say anything.
+122 I am here of my own free will.</blockquote>
+123    <p>--Hoover Sukhdeep,<br>
+124 Former Sucker, <br>Aspiring DDoS Cop</p>
+125 </li>
+126 <li>
+127    <img src="images/toaster.svg" alt="Toaster" style="width: 50%;"><blockquote>Learning with Hal and Eve exceeded all of my wildest fantasies.
+128 All they did was stick a USB in. They promised that it was a brand new USB, so we know there were no viruses on it.
+129 The Russians had nothing to do with it. This has
+130 <span style="font-family:Arial;vertical-align:baseline;">no̶̼͖ţ̘h̝̰̩͈̗i̙̪n͏̩̙͍̱̫̜̟g̢̣ͅ&#160;̗̰͓̲̞̀t͙̀o̟̖͖̹̕&#160;͓̼͎̝͖̭dó̪̠͕̜&#160;͍̱͎͚̯̟́w̮̲̹͕͈̟͞ìth̢&#160;̰̳̯̮͇i</span></blockquote><p>
+131 --Toasty McToastface,<br>
+132 Formerly Half Baked, <br>Aspiring Nuclear Codes Handler</p>
+133 </li>
+134 </ul>
+135 </section>
+136 </main>
+137 <footer>   
+138    <h2>Delivering accessible, performant, standards compliant websites since 1999.</h2>
+139 <p>© Standardista Inc. All rights reserved.</p>
+140 </footer>
+141 <script>
+142    document.getElementById('switch').addEventListener('click', function(){
+143       document.body.classList.toggle('black');
+144    });
+145 </script>
+146 </body>
+147 </html>
